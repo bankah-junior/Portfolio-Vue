@@ -42,15 +42,6 @@ export default {
 
 <style scoped>
 
-  h1.user__name::before {
-    content: '{ An Engineer / Full Stack Developer }';
-    position: absolute;
-    bottom: 1.4rem;
-    font-size: .8rem;
-    margin-bottom: 0.4rem;
-  }
-  
-
   /* Small (sm) */
   @media (min-width: 640px) { 
     h1.user__name::before {
