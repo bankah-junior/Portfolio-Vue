@@ -2,7 +2,7 @@
   <div class="h-screen">
     <div class="flex flex-row mb-6 sm:mb-12">
       <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">1</p>
-      <h1 class="user__name relative text-xl sm:text-4xl font-bold">ANTHONY BEKOE BANKAH</h1>
+      <h1 class="user__name relative text-xl sm:text-4xl font-bold text-left">ANTHONY BEKOE BANKAH</h1>
     </div>
     <div class="flex flex-row mb-6 sm:mb-12">
       <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">2</p>
