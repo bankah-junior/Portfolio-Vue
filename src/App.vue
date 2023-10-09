@@ -48,7 +48,8 @@ export default {
         closeTab() {
           window.close();
           if (window.closed) {
-            alert("Closed successfully!!!")
+            // alert("Closed successfully!!!")
+            return
           } else {
             let ans = confirm("Unable to close, would you like to stay?")
             if (!ans) {
