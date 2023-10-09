@@ -6,7 +6,7 @@
       </div>
       <div class="flex flex-row mb-16 sm:mb-[4.5rem]">
         <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">2</p>
-        <pre class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#React Js   #Vue Js   #SASS   #TailwindCSS</pre>
+        <p class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#React Js   #Vue Js   #SASS   #TailwindCSS</p>
       </div>
       <div class="flex flex-row mb-4 sm:mb-4">
         <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">3</p>
@@ -14,7 +14,7 @@
       </div>
       <div class="flex flex-row mb-16 sm:mb-[4.5rem]">
         <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">4</p>
-        <pre class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#Node Js   #MongoDB   #SQL</pre>
+        <p class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#Node Js   #MongoDB   #SQL</p>
       </div>
       <div class="flex flex-row mb-4 sm:mb-4">
         <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">3</p>
@@ -22,7 +22,7 @@
       </div>
       <div class="flex flex-row mb-16 sm:mb-[4.5rem]">
         <p class="sm:mr-10 mr-4 text-lg sm:text-2xl">4</p>
-        <pre class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#Photoshop   #Figma</pre>
+        <p class="relative text-lg sm:text-2xl font-medium text-left opacity-70 italic">#Photoshop   #Figma</p>
       </div>
     </div>
 </template>
